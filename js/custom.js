@@ -31,3 +31,10 @@
   })(window.jQuery);
 
 
+
+
+// code for modal popup
+
+$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').trigger('focus')
+})
