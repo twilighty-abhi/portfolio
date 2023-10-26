@@ -11,10 +11,10 @@ An small portfolio showcasing myself. Made with Bootstrap. Uses Google Appscript
 ## Tech Stacks
 **Main Framework** - [Bootstrap](https://getbootstrap.com/)  
 **Styling** - CSS  
-**Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
+**Icons** - [Boxicons](https://boxicons.com/)
 **Code Formatting** - [Prettier](https://prettier.io/)  <br>
-**Designing** - [Figma] (https://www.figma.com/)  <br>
-**Hosting** - [Vercel] (https://vercel.com/)  <br>
+**Designing** - [Figma](https://www.figma.com)  <br>
+**Hosting** - [Vercel](https://vercel.com/)  <br>
 
 <br>
 <br>
